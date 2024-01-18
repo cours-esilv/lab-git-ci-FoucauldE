@@ -10,6 +10,7 @@ What is a commit?
 
 Answer A
 
+
 ### Question 2
 
 How can I find out the current state of a repository?
@@ -52,6 +53,7 @@ Git allows you to :
 - D. Get help with Python syntax
 
 Answers A and C
+
 
 ### Question 6
 
