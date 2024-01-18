@@ -8,7 +8,8 @@ What is a commit?
 - B. One of the multiple histories contained in a git repository.
 - C. Any recent modification made to one of the files in the repository.
 
-Answer B
+Answer A
+
 
 ### Question 2
 
@@ -51,7 +52,8 @@ Git allows you to :
 - C. Explore the history of software code
 - D. Get help with Python syntax
 
-Answer C
+Answers A and C
+
 
 ### Question 6
 
